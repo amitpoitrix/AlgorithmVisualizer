@@ -22,4 +22,4 @@ Features:
   2.3) Generation of new data (Randomly generate new data).
 4) Time and Space complexity of algorithm being visualized.
 
-For Live Demo: https://venerable-cucurucho-15c113.netlify.app/
+For Live Demo: https://aquamarine-pie-48793d.netlify.app/
